@@ -1,7 +1,3 @@
-/*
- * pt.h
- */
-
 #ifndef PT_H_
 #define PT_H_
 

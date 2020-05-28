@@ -1,10 +1,3 @@
-/*
- * main.cpp
- *
- * CS280 - Spring 2020
- * Lexical Analyzer test engine
- */
-
 #include <fstream>
 using std::ifstream;
 

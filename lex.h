@@ -1,10 +1,3 @@
-/*
- * lex.h
- *
- * CS280
- * Spring 2020
- */
-
 #ifndef LEX_H_
 #define LEX_H_
 

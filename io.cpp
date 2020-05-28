@@ -1,9 +1,3 @@
-/*
- * lex.cpp
- *
- * CS280 - Spring 2019
- */
-
 #include <cctype>
 #include <map>
 using std::map;

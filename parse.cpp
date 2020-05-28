@@ -1,7 +1,3 @@
-/*
- * parse.cpp
- */
-
 #include "parse.h"
 #include "pt.h"
 namespace Parser {
