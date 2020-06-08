@@ -6,6 +6,10 @@ The Interpreter takes in a file as an argument or reads from standard in.
 
 There are more debuggin options included in main to test the lexer.
 
+## To run:
+
+compile with " --std=c++11 -w *.cpp -o interp " then "./interp filepath" 
+
 ## The language follows these grammar rules:
 
 * Prog := Sl
