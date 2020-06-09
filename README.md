@@ -8,7 +8,7 @@ There are more debuggin options included in main to test the lexer.
 
 ## To run:
 
-compile with " --std=c++11 -w *.cpp -o interp " then "./interp filepath" 
+compile with "-std=c++11 -w *.cpp -o interp " then "./interp filetoreadpath" 
 
 ## The language follows these grammar rules:
 
