@@ -8,10 +8,15 @@ There are more debuggin options included in main to test the lexer.
 
 ## Syntax
 print (prints an integer or a string)
+
 pritln (prints an integer or a string but adds a newline character at the end)
+
 operators (+-*/) 
+
 assignment (x = 3 or x = "string")
-repeat (repeat 3 begin statements end)
+
+repeat x begin statements end (repeats statements "x" amount of times ex: repeat 3 begin println "Hello" end  would print Hello 3 times) 
+
 ; at the end of each statement
 
 ## To run:
