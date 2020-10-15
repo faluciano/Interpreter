@@ -1,1 +1,5 @@
 .vscode/tasks.json
+.vscode/c_pp_properties.json
+some.txt
+a.exe
+.vscode/c_cpp_properties.json

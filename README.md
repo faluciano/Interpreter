@@ -6,6 +6,14 @@ The Interpreter takes in a file as an argument or reads from standard in.
 
 There are more debuggin options included in main to test the lexer.
 
+## Syntax
+print (prints an integer or a string)
+pritln (prints an integer or a string but adds a newline character at the end)
+operators (+-*/) 
+assignment (x = 3 or x = "string")
+repeat (repeat 3 begin statements end)
+; at the end of each statement
+
 ## To run:
 
 compile with "-std=c++11 -w *.cpp -o interp " then "./interp filetoreadpath" 
